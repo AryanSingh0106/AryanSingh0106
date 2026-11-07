@@ -1,16 +1,59 @@
-## Hi there 👋
+Hi, I’m Aryan Singh 👋
 
-<!--
-**AryanSingh0106/AryanSingh0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring VAPT Engineer | Cybersecurity Learner
 
-Here are some ideas to get you started:
+🎓 B.Tech Student at Manipal University Jaipur (Graduating 2027)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m an aspiring cybersecurity professional interested in Vulnerability Assessment and Penetration Testing (VAPT), ethical hacking, network security, and web application security.
+
+I’m currently building my cybersecurity fundamentals through structured learning, hands-on practice, and authorised lab environments.
+
+👨‍💻 About Me
+
+* 🎓 Pursuing B.Tech at Manipal University Jaipur.
+* 🔐 Interested in VAPT, penetration testing, and ethical hacking.
+* 🌱 Currently learning networking, Linux, and web application security.
+* 🧪 Building practical knowledge through cybersecurity labs.
+* 🎯 Career Goal: Junior VAPT Engineer / Penetration Tester.
+* 💼 Open to cybersecurity internships and entry-level opportunities.
+
+📚 Current Learning Focus
+
+* Networking Fundamentals (TCP/IP, DNS, HTTP/HTTPS)
+* Linux Fundamentals and Command Line
+* Network Scanning and Reconnaissance
+* Vulnerability Assessment
+* Web Application Penetration Testing
+* OWASP Top 10
+* Security Documentation and VAPT Reporting
+
+🛠️ Tools I’m Learning
+
+* Nmap
+* Burp Suite
+* Kali Linux
+* OWASP Juice Shop
+* Git and GitHub
+
+🚀 Cybersecurity Portfolio
+
+I will use this GitHub profile to document my cybersecurity learning journey, practical exercises, lab notes, and security assessment reports.
+
+Projects and documentation will be published here as I complete them.
+
+🎓 Education
+
+Bachelor of Technology (B.Tech)
+ITS Engineering College 
+Expected Graduation: 2027
+
+🤝 Connect With Me
+
+* LinkedIn: Aryan Singh
+* GitHub: AryanSingh0106
+
+⸻
+
+⭐ Learning, practising, and building towards a career in cybersecurity.
+
+🔒 All security testing and practical exercises are conducted in authorised lab environments.
