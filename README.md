@@ -10,7 +10,7 @@ I’m currently building my cybersecurity fundamentals through structured learni
 
 👨‍💻 About Me
 
-* 🎓 Pursuing B.Tech at Manipal University Jaipur.
+* 🎓 Pursuing B.Tech at ITS Engineering College.
 * 🔐 Interested in VAPT, penetration testing, and ethical hacking.
 * 🌱 Currently learning networking, Linux, and web application security.
 * 🧪 Building practical knowledge through cybersecurity labs.
