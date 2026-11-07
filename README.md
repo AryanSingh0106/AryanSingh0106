@@ -2,7 +2,7 @@ Hi, I’m Aryan Singh 👋
 
 Aspiring VAPT Engineer | Cybersecurity Learner
 
-🎓 B.Tech Student at Manipal University Jaipur (Graduating 2027)
+🎓 B.Tech Student at ITS Engineering College (Graduating 2027)
 
 I’m an aspiring cybersecurity professional interested in Vulnerability Assessment and Penetration Testing (VAPT), ethical hacking, network security, and web application security.
 
